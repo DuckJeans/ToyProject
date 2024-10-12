@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/ClassStudy2.unity
+- path: Assets/Scenes/ClassStudy3.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

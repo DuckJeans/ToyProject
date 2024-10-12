@@ -53,7 +53,7 @@ namespace ClassStudy
 
             //////////////////////////////////////////
 
-            if (Input.GetKeyDown(KeyCode.W) && isGrounded)
+            if (Input.GetKeyDown(KeyCode.W))
             {
                 Debug.Log("Jump");
 
@@ -90,17 +90,6 @@ namespace ClassStudy
             //ม฿ทย
             //transform.Translate(new Vector3(0, -9.8f, 0) * Time.deltaTime);
 
-            isGrounded = IsGrounded();
-
-            if ( Physics.Raycast(transform.position, Vector3.down, 5 , ground))
-            {
-                isGrounded = false;
-            }
-        }
-        
-        bool IsGrounded()
-        {
-            return Physics.Raycast(transform.position, Vector3.down, 1, ground) ? true : false;
         }
     }
 }

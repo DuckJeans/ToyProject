@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\scripts\\collider study\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\scripts\\class study\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class study\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|c:\\users\\gajak\\desktop\\toyproject\\toyprojecttry\\assets\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|c:\\users\\gajak\\desktop\\toyproject\\toyprojecttry\\assets\\scripts\\collider study\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collider study\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|c:\\users\\gajak\\desktop\\toyproject\\toyprojecttry\\assets\\avoidball\\scripts\\ballspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\avoidball\\scripts\\ballspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\avoidball\\scripts\\ballspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|c:\\users\\gajak\\desktop\\toyproject\\toyprojecttry\\assets\\avoidball\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\avoidball\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\avoidball\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\scripts\\collider study\\falling sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collider study\\falling sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\scripts\\class study\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class study\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\scripts\\class study\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Scripts\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuController.cs",
+              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Scripts\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:16:14.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BallSpawner.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\AvoidBall\\Scripts\\BallSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\AvoidBall\\Scripts\\BallSpawner.cs",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "Assets\\AvoidBall\\Scripts\\BallSpawner.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAADwvxcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T07:03:30.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T07:03:30.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Ball.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\AvoidBall\\Scripts\\Ball.cs",
               "RelativeDocumentMoniker": "Assets\\AvoidBall\\Scripts\\Ball.cs",
@@ -67,25 +83,24 @@
               "RelativeToolTip": "Assets\\AvoidBall\\Scripts\\Ball.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T06:40:37.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T06:40:37.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlayerMove.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Scripts\\Collider Study\\PlayerMove.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Collider Study\\PlayerMove.cs",
               "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Scripts\\Collider Study\\PlayerMove.cs",
               "RelativeToolTip": "Assets\\Scripts\\Collider Study\\PlayerMove.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAswBMAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wBMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T06:29:09.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Falling Sphere.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Scripts\\Collider Study\\Falling Sphere.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Collider Study\\Falling Sphere.cs",
@@ -93,24 +108,24 @@
               "RelativeToolTip": "Assets\\Scripts\\Collider Study\\Falling Sphere.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAmwB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T05:32:34.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T05:32:34.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Scripts\\Class Study\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class Study\\Player.cs",
               "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Scripts\\Class Study\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Class Study\\Player.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAywDAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwFwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T06:02:22.386Z"
+              "WhenOpened": "2024-09-28T06:02:22.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Goal.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Scripts\\Class Study\\Goal.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class Study\\Goal.cs",
@@ -122,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Block.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Scripts\\Class Study\\Block.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class Study\\Block.cs",
@@ -134,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Delete.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Scripts\\Class Study\\Delete.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Class Study\\Delete.cs",
