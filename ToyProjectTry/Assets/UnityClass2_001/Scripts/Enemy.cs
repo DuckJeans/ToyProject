@@ -1,3 +1,4 @@
+using ClassStudy;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,6 +10,10 @@ namespace Sample
         [Header("속성")]
         public float speed = 5;
         private Vector3 dir;   // 몬스터가 이동할 방향
+
+        public GameObject[] explosionEffect;
+        
+
         private void Start()
         {
             // 몬스터의 방향을 랜덤하게 정해주는 로직
@@ -38,6 +43,21 @@ namespace Sample
 
         private void OnTriggerEnter(Collider other)
         {
+            if (other.CompareTag("DeadZone")) return;
+
+            if (other.CompareTag("Bullet"))
+            {
+                GameObject smoke = Instantiate(explosionEffect[1]);
+                smoke.transform.position = transform.position;
+            }
+
+            if (other.CompareTag("Player"))
+            {
+                GameObject smoke = Instantiate(explosionEffect[0]);
+                smoke.transform.position = transform.position;
+            }
+
+
             Destroy(other.gameObject); // 너 죽고
             Destroy(gameObject);       // 나 죽자
         }
