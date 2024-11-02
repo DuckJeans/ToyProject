@@ -3,19 +3,59 @@
   "WorkspaceRootPath": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|c:\\users\\gajak\\desktop\\toyproject\\toyprojecttry\\assets\\unityclass2_001\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\unityclass2_001\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\unityclass2_001\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|c:\\users\\gajak\\desktop\\toyproject\\toyprojecttry\\assets\\shooting game\\scripts\\item_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\item_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\enemymanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\enemymanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\hp\\playerhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\hp\\playerhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|c:\\users\\gajak\\desktop\\toyproject\\toyprojecttry\\assets\\shooting game\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|c:\\users\\gajak\\desktop\\toyproject\\toyprojecttry\\assets\\scripts\\class study\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\class study\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\hp\\bosshp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\hp\\bosshp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\hp\\enemyhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\hp\\enemyhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|c:\\users\\gajak\\desktop\\toyproject\\toyprojecttry\\assets\\shooting game\\hp_system\\scripts\\playerhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\hp_system\\scripts\\playerhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\unityclass2_001\\scripts\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\unityclass2_001\\scripts\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\hp\\hp_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\hp\\hp_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\playerfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\playerfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\boundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\boundary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,20 +63,8 @@
       "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\bulletsfxutillity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\playermoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\playermoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\playerfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\playerfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\shooting game\\scripts\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|solutionrelative:assets\\shooting game\\scripts\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4023EBC9-E68F-1D3D-E3B3-E43D5FD737EB}|Assembly-CSharp.csproj|C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\assets\\unityclass2_001\\scripts\\destroyzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,19 +82,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Score.cs",
-              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\Score.cs",
-              "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\Score.cs",
-              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\Score.cs",
-              "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\Score.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "PlayerHP.cs",
+              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\HP_System\\Scripts\\PlayerHP.cs",
+              "RelativeDocumentMoniker": "Assets\\Shooting Game\\HP_System\\Scripts\\PlayerHP.cs",
+              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\HP_System\\Scripts\\PlayerHP.cs",
+              "RelativeToolTip": "Assets\\Shooting Game\\HP_System\\Scripts\\PlayerHP.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvwYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T08:15:38.037Z",
+              "WhenOpened": "2024-11-02T08:35:31.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item_Move.cs",
+              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\Item_Move.cs",
+              "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\Item_Move.cs",
+              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\Item_Move.cs",
+              "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\Item_Move.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:22:23.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Scripts\\Class Study\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Class Study\\Player.cs",
+              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Scripts\\Class Study\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Class Study\\Player.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:35:25.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\UnityClass2_001\\Scripts\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityClass2_001\\Scripts\\EnemyManager.cs",
+              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\UnityClass2_001\\Scripts\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\UnityClass2_001\\Scripts\\EnemyManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:02:40.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BossHP.cs",
+              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\HP\\BossHP.cs",
+              "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\HP\\BossHP.cs",
+              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\HP\\BossHP.cs",
+              "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\HP\\BossHP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:50:25.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HP_system.cs",
+              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\HP\\HP_system.cs",
+              "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\HP\\HP_system.cs",
+              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\HP\\HP_system.cs",
+              "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\HP\\HP_system.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:21:29.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerHP.cs",
+              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\HP\\PlayerHP.cs",
+              "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\HP\\PlayerHP.cs",
+              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\HP\\PlayerHP.cs",
+              "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\HP\\PlayerHP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:18:23.267Z",
               "EditorCaption": ""
             },
             {
@@ -77,14 +182,77 @@
               "RelativeDocumentMoniker": "Assets\\UnityClass2_001\\Scripts\\Enemy.cs",
               "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\UnityClass2_001\\Scripts\\Enemy.cs",
               "RelativeToolTip": "Assets\\UnityClass2_001\\Scripts\\Enemy.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAQwD8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T07:09:37.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "EnemyHP.cs",
+              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\HP\\EnemyHP.cs",
+              "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\HP\\EnemyHP.cs",
+              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\HP\\EnemyHP.cs",
+              "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\HP\\EnemyHP.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:18:29.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\EnemyManager.cs",
+              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\EnemyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:02:36.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Boundary.cs",
+              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\Boundary.cs",
+              "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\Boundary.cs",
+              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\Boundary.cs",
+              "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\Boundary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:19:08.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\PlayerMove.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:05:22.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\Score.cs",
+              "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\Score.cs",
+              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\Score.cs",
+              "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\Score.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:15:38.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "BulletSfxUtillity.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\BulletSfxUtillity.cs",
               "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\BulletSfxUtillity.cs",
@@ -96,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Background.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\Background.cs",
               "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\Background.cs",
@@ -108,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "DestroyZone.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\UnityClass2_001\\Scripts\\DestroyZone.cs",
               "RelativeDocumentMoniker": "Assets\\UnityClass2_001\\Scripts\\DestroyZone.cs",
@@ -120,45 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DeadZone.cs",
-              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\DeadZone.cs",
-              "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\DeadZone.cs",
-              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\DeadZone.cs",
-              "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\DeadZone.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T08:19:56.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EnemyManger.cs",
-              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\EnemyManger.cs",
-              "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\EnemyManger.cs",
-              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\EnemyManger.cs",
-              "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\EnemyManger.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAswCYAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T07:10:01.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\Enemy.cs",
-              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\Enemy.cs",
-              "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\Enemy.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwCUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T06:35:30.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\Bullet.cs",
@@ -170,27 +300,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "PlayerFire.cs",
               "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\PlayerFire.cs",
               "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\PlayerFire.cs",
               "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\PlayerFire.cs",
               "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\PlayerFire.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T06:10:58.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlayerMoves.cs",
-              "DocumentMoniker": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\PlayerMoves.cs",
-              "RelativeDocumentMoniker": "Assets\\Shooting Game\\Scripts\\PlayerMoves.cs",
-              "ToolTip": "C:\\Users\\gajak\\Desktop\\ToyProject\\ToyProjectTry\\Assets\\Shooting Game\\Scripts\\PlayerMoves.cs",
-              "RelativeToolTip": "Assets\\Shooting Game\\Scripts\\PlayerMoves.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T05:27:30.396Z"
             }
           ]
         }

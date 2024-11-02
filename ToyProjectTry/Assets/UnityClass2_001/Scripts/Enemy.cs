@@ -5,6 +5,8 @@ using UnityEngine;
 
 namespace Sample
 {
+    [RequireComponent(typeof(EnemyHP))]
+
     public class Enemy : MonoBehaviour
     {
         [Header("속성")]
@@ -12,7 +14,15 @@ namespace Sample
         private Vector3 dir;   // 몬스터가 이동할 방향
 
         public GameObject[] explosionEffect;
-        
+
+        [Header("Enemy HP system")]
+        public EnemyHP hpController;
+
+        private void Awake()
+        {
+            hpController = GetComponent<EnemyHP>();
+        }
+
 
         private void Start()
         {
@@ -47,19 +57,32 @@ namespace Sample
 
             if (other.CompareTag("Bullet"))
             {
-                GameObject smoke = Instantiate(explosionEffect[1]);
-                smoke.transform.position = transform.position;
+                GameObject fire = Instantiate(explosionEffect[1]);
+                fire.transform.position = transform.position;
+
+                hpController.DecreaseHP();
+
+                Destroy(other.gameObject);
+
+                if (hpController.isDead())
+                {
+                    Destroy(gameObject);
+                }
             }
 
             if (other.CompareTag("Player"))
             {
+                PlayerHP player = other.GetComponent<PlayerHP>();
+                player.isDead();
+
                 GameObject smoke = Instantiate(explosionEffect[0]);
                 smoke.transform.position = transform.position;
+
+                if (player.gameObject)
+                {
+                    Destroy(player);
+                }
             }
-
-
-            Destroy(other.gameObject); // 너 죽고
-            Destroy(gameObject);       // 나 죽자
         }
     }
 }

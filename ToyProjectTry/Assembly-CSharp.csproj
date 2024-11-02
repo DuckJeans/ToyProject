@@ -61,8 +61,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Shooting Game\Scripts\BulletSfxUtillity.cs" />
+    <Compile Include="Assets\Shooting Game\Scripts\HP\PlayerHP.cs" />
+    <Compile Include="Assets\Shooting Game\HP_System\Scripts\EnemyHP.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+    <Compile Include="Assets\Shooting Game\Scripts\HP\HP_system.cs" />
+    <Compile Include="Assets\Shooting Game\Scripts\PlayerMove.cs" />
+    <Compile Include="Assets\Shooting Game\Scripts\EnemyManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
+    <Compile Include="Assets\Shooting Game\Scripts\HP\BossHP.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\UnityClass2_001\Scripts\Enemy.cs" />
@@ -70,18 +76,20 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\Shooting Game\Scripts\Score.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
+    <Compile Include="Assets\Shooting Game\HP_System\Scripts\PlayerHP.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
-    <Compile Include="Assets\UnityClass2_001\Scripts\PlayerMove.cs" />
+    <Compile Include="Assets\Shooting Game\HP_System\Scripts\BossHP.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\Shooting Game\Scripts\Bullet.cs" />
     <Compile Include="Assets\Shooting Game\Scripts\Background.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+    <Compile Include="Assets\ScoreSystem.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
-    <Compile Include="Assets\Shooting Game\Scripts\PlayerMoves.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
+    <Compile Include="Assets\Shooting Game\Scripts\AudioUtility.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
     <Compile Include="Assets\AvoidBall\Scripts\BallSpawner.cs" />
     <Compile Include="Assets\Scripts\Class Study\Goal.cs" />
@@ -100,14 +108,17 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\AvoidBall\Scripts\Ball.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
+    <Compile Include="Assets\Shooting Game\HP_System\Scripts\HP_System.cs" />
     <Compile Include="Assets\Scripts\Class Study\Player.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
+    <Compile Include="Assets\Shooting Game\Scripts\HP\EnemyHP.cs" />
     <Compile Include="Assets\Scripts\Collider Study\Falling Sphere.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\Scripts\MenuController.cs" />
     <Compile Include="Assets\UnityClass2_001\Scripts\PlayerFire.cs" />
+    <Compile Include="Assets\Shooting Game\Scripts\Item_Move.cs" />
     <Compile Include="Assets\Shooting Game\Scripts\EnemyManger.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
@@ -115,9 +126,8 @@
     <Compile Include="Assets\Shooting Game\Scripts\PlayerFire.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\UnityClass2_001\Scripts\DestroyZone.cs" />
-    <Compile Include="Assets\Shooting Game\Scripts\Enemy.cs" />
+    <Compile Include="Assets\Shooting Game\Scripts\Boundary.cs" />
     <Compile Include="Assets\Scripts\Class Study\Block.cs" />
-    <Compile Include="Assets\PlayerMove.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -1074,13 +1084,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="CFXREditor.csproj">
-      <Project>{2B137BDF-9AF6-8811-C1F5-60BDDB375807}</Project>
-      <Name>CFXREditor</Name>
-    </ProjectReference>
     <ProjectReference Include="CFXRRuntime.csproj">
       <Project>{BAB1FCEC-0C9A-8794-224B-42C68D18721E}</Project>
       <Name>CFXRRuntime</Name>
+    </ProjectReference>
+    <ProjectReference Include="CFXREditor.csproj">
+      <Project>{2B137BDF-9AF6-8811-C1F5-60BDDB375807}</Project>
+      <Name>CFXREditor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
